@@ -1,6 +1,6 @@
 # Video-streaming-platform as a intern task for "MissionEd- An edtech startup founded by students of IIT Kharagpur, IIT Kanpur and IIT Delhi in March 2020 catering to students of classes 8-12." 
 
-The platform is attractive and well compatible and integrable with the existing MissionEd Forum platform, is based on ReactJS + Backend. 
+#The platform is attractive and well compatible and integrable with the existing MissionEd Forum platform, is based on ReactJS + Backend. 
 
 ![1](https://user-images.githubusercontent.com/61155043/127886512-e64f686f-1746-4cf7-8f9e-5293230bce12.PNG) 
 ![2](https://user-images.githubusercontent.com/61155043/127886552-2d755f62-79c5-4ec1-addf-2f6f1082a392.PNG) 
