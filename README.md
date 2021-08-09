@@ -5,7 +5,7 @@ The platform is attractive and well compatible and integrable with the existing 
 ![1](https://user-images.githubusercontent.com/61155043/127886512-e64f686f-1746-4cf7-8f9e-5293230bce12.PNG) 
 ![2](https://user-images.githubusercontent.com/61155043/127886552-2d755f62-79c5-4ec1-addf-2f6f1082a392.PNG) 
 
-#Play any video, with automatically set to best quality and other infos.
+#Play any video, with automatically set to best quality, full screen visibility and other infos.
 
 ![3](https://user-images.githubusercontent.com/61155043/127886538-239be52c-f427-43e8-989c-409db9e9accf.PNG) 
 
